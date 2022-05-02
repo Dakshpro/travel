@@ -312,7 +312,7 @@ section{
   }
 
   .menu-btn{
-    background: url(images/menu.png);
+    background: url(https://github.com/Dakshpro/travel/blob/main/images/menu.png?raw=true);
     background-size: 30px;
     background-position: center;
     width: 40px;
@@ -323,7 +323,7 @@ section{
 
   .menu-btn.active{
     z-index: 999;
-    background: url(images/close.png);
+    background: url(https://github.com/Dakshpro/travel/blob/main/images/close.png?raw=true);
     background-size: 25px;
     background-position: center;
     transition: 0.3s ease;
@@ -491,7 +491,7 @@ img{
 }
 
 .newsletter{
-  background: url('../images/newsletter-image.jpg') center no-repeat;
+  background: url('https://github.com/Dakshpro/travel/blob/main/images/newsletter-image.jpg?raw=true') center no-repeat;
   background-size: cover;
   position: relative;
   z-index: 5;
